@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "TMAN FAW"
+  description: "FAQ on Backstage"
+  annotations:
+    github.com/project-slug: "skalingclouds/docsbackstage1"
+    backstage.io/techdocs-ref: github:https://github.com/skalingclouds/docsbackstage1
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "Chris"

@@ -1,0 +1,8 @@
+site_name: "TMAN FAW"
+site_description: "FAQ on Backstage"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
